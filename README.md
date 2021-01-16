@@ -18,5 +18,10 @@ steps:
 7.Test the accuracy and validation loss.
 
 Whole Data preprocessing and nueral network is prepared by using Pytorch.
-![grid_image](https://user-images.githubusercontent.com/54842624/104820328-135b8d00-585a-11eb-8687-ad91b735de7d.png)
 
+
+![grid_of_cell](https://user-images.githubusercontent.com/54842624/104820328-135b8d00-585a-11eb-8687-ad91b735de7d.png)
+
+![Parasitized_cell](https://user-images.githubusercontent.com/54842624/104820359-46058580-585a-11eb-9475-d1035180da59.png)
+
+![uninfected_cell](https://user-images.githubusercontent.com/54842624/104820376-5158b100-585a-11eb-81a6-8b2498b172d8.png)
