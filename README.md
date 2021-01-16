@@ -19,9 +19,9 @@ steps:
 
 Whole Data preprocessing and nueral network is prepared by using Pytorch.
 
-
+Grid of Cell :-
 ![grid_of_cell](https://user-images.githubusercontent.com/54842624/104820328-135b8d00-585a-11eb-8687-ad91b735de7d.png)
-
+Parasitized_cell:-
 ![Parasitized_cell](https://user-images.githubusercontent.com/54842624/104820359-46058580-585a-11eb-9475-d1035180da59.png)
-
+Uninfected_cell:-
 ![uninfected_cell](https://user-images.githubusercontent.com/54842624/104820376-5158b100-585a-11eb-81a6-8b2498b172d8.png)
