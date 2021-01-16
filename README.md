@@ -19,5 +19,5 @@ steps:
 
 Whole Data preprocessing and nueral network is prepared by using Pytorch.
 
-![alt text](https://github.com/[prashun07]/[Malaria_cell_detection]/blob/[Main]/AccuracyVSEpochs.png?raw=true)
+![Image](https://github.com/[prashun07]/[Malaria_cell_detection]/blob/[main]/AccuracyVSEpochs.png?raw=true)
 
