@@ -18,6 +18,5 @@ steps:
 7.Test the accuracy and validation loss.
 
 Whole Data preprocessing and nueral network is prepared by using Pytorch.
-
-![Image](https://github.com/[prashun07]/[Malaria_cell_detection]/blob/[main]/AccuracyVSEpochs.png?raw=true)
+![grid_image](https://user-images.githubusercontent.com/54842624/104820328-135b8d00-585a-11eb-8687-ad91b735de7d.png)
 
